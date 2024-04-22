@@ -6,6 +6,3 @@
 - 📫 - 📫 How to reach me: lakshitagarg588@gmail.com or https://www.instagram.com/lakshitagarg_10/  (Instagram)
 
 
-Lakshita0403/Lakshita0403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
