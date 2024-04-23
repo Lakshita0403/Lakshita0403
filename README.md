@@ -1,9 +1,12 @@
 ![logo](https://github.com/Lakshita0403/Lakshita0403/blob/main/Pink%20Gaming%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Lakshita Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+👩‍💻I have a passion for coding and problem-solving.<br>📚 Proficient in programming languages like C, C++, Java, and JavaScript.<br>🧠 Enthusiastic about data structures, constantly seeking to improve my problem-solving skills.<br>🔍I’m interested in coding and exploring new technologies.<br>🚀 Dedicated to refining my coding skills and delivering high-quality, innovative solutions.
+
 <img align="center" alt = "coding" width = "400" src = "https://github.com/Lakshita0403/Lakshita0403/assets/128016150/7e4f8e54-3307-496c-acde-3865c5177f69">
 <br>
-- 📫 How to reach me lakshitagarg588@gmail.com or https://www.instagram.com/lakshitagarg_10/ (Instagram).
+<!-- - 📫 How to reach me lakshitagarg588@gmail.com or https://www.instagram.com/lakshitagarg_10/ (Instagram). -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -29,3 +32,4 @@
 
 <p align="center"> <a href="https://twitter.com/lakshitagarg6" target="blank"><img src="https://img.shields.io/twitter/follow/lakshitagarg6?logo=twitter&style=for-the-badge" alt="lakshitagarg6" /></a> </p>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&card_width=1000)
