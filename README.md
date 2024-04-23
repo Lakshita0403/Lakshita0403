@@ -2,13 +2,8 @@
 <h1 align="center">Hi 👋, I'm Lakshita Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt = "coding" width = "400" src = "https://github.com/Lakshita0403/Lakshita0403/assets/128016150/7e4f8e54-3307-496c-acde-3865c5177f69">
-
-
-<p align = "center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshita0403" alt="lakshita0403" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/lakshitagarg6" target="blank"><img src="https://img.shields.io/twitter/follow/lakshitagarg6?logo=twitter&style=for-the-badge" alt="lakshitagarg6" /></a> </p>
-
-- 📫 How to reach me **lakshitagarg588@gmail.com or https://www.instagram.com/lakshitagarg_10/ (Instagram).**
+<br>
+- 📫 How to reach me lakshitagarg588@gmail.com or https://www.instagram.com/lakshitagarg_10/ (Instagram).
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,5 +23,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshita0403&show_icons=true&locale=en" alt="lakshita0403" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshita0403&" alt="lakshita0403" /></p>
+<p align = "center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshita0403" alt="lakshita0403" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshita0403&label=Profile%20views&color=0e75b6&style=flat" alt="lakshita0403" /> </p>
+
+<p align="center"> <a href="https://twitter.com/lakshitagarg6" target="blank"><img src="https://img.shields.io/twitter/follow/lakshitagarg6?logo=twitter&style=for-the-badge" alt="lakshitagarg6" /></a> </p>
+
