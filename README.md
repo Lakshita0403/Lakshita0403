@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Lakshita Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt = "coding" width = "400" src = ">
+<img alt = "coding" width = "400" src = "![image](https://github.com/Lakshita0403/Lakshita0403/assets/128016150/0b8b89b2-d563-4d7d-a221-a8e407d18ee7)
+">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshita0403" alt="lakshita0403" /></a> </p>
