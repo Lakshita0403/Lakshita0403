@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ## 💫 About Me:
-👩‍💻I have a passion for coding and problem-solving.<br>📚 Proficient in programming languages like C, C++, Java, and JavaScript.<br>🧠 Enthusiastic about data structures, constantly seeking to improve my problem-solving skills.<br>🔍I’m interested in coding and exploring new technologies.<br><br>
+<h3>👩‍💻I have a passion for coding and problem-solving.<br>📚 Proficient in programming languages like C, C++, Java, and JavaScript.<br>🧠 Enthusiastic about data structures, constantly seeking to improve my problem-solving skills.<br>🔍I’m interested in coding and exploring new technologies.<br><be></h3>
 <img alt = "coding" width = "400" src = "https://github.com/Lakshita0403/Lakshita0403/assets/128016150/7e4f8e54-3307-496c-acde-3865c5177f69">
 <br>
 <!-- - 📫 How to reach me lakshitagarg588@gmail.com or https://www.instagram.com/lakshitagarg_10/ (Instagram). -->
