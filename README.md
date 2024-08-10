@@ -1,4 +1,4 @@
-![logo](https://github.com/Lakshita0403/Lakshita0403/blob/main/Pink%20Gaming%20YouTube%20Channel%20Art.png)
+![logo](https://github.com/Lakshita0403/Lakshita0403/blob/main/coding_image.png?)
 <h1 align="center">Hi 👋, I'm Lakshita Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
